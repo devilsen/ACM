@@ -1,4 +1,7 @@
-public class Merge {
+package week_1;
+
+
+public class MergeSort2 {
 
     /**
      * 对随机数组a进行归并排序

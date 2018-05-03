@@ -1,4 +1,4 @@
-package me.devilsen.test.week_1;
+package week_1;
 
 /**
  * @author dongsen

@@ -1,4 +1,4 @@
-package me.devilsen.test.week_1;
+package week_1;
 
 /**
  * Created by dongsen on 2018/03/13 0013.
